@@ -1,15 +1,15 @@
 {
-  "name": "my-parcel-example",
+  "name": "parcel-example",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://oleg833.github.io/Parcel-example/",
+  "homepage": "https://oleg833.github.io/parcel-example/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Parcel-example/"
+    "build": "parcel build src/*.html --public-url /parcel-example/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oleg833/Parcel-example"
+    "url": "git+https://github.com/Oleg833/parcel-example.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
